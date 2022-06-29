@@ -6,11 +6,11 @@
 business.com is an online marketplace, here is a sample of
 some of the products available on our site:
 
-Product code | Name                   | Price
-------------   ----------------------   -------
-001          | Travel Card Holder     |  $9.25
-002          | Personalised cufflinks |  $45.00
-003          | Kids T-shirt           |  $19.95
+Product code | Name | Price |
+--- | --- | --- | 
+001 | Travel Card Holder | $9.25 | 
+002 | Personalised cufflinks | $45.00 | 
+003 | Kids T-shirt | $19.95 | 
 
 Our marketing team want to offer promotions as an incentive for our customers to purchase these items.
 ## Rules
