@@ -40,7 +40,7 @@ describe Checkout do
         expected_total = expected_total - (expected_total * @discount_percentage/100)
       end
 
-      expect(checkout.total).to be( expected_total)
+      expect(checkout.total).to be(expected_total)
     end
 
     it "calculates correct price for Basket: 001,003,001" do
@@ -61,7 +61,7 @@ describe Checkout do
         expected_total = expected_total - (expected_total * @discount_percentage/100)
       end 
 
-      expect(checkout.total).to be( expected_total)
+      expect(checkout.total).to be(expected_total)
     end
 
     it "calculates correct price for Basket: 001,002,001,003" do
@@ -83,7 +83,7 @@ describe Checkout do
         expected_total = expected_total - (expected_total * @discount_percentage/100)
       end 
 
-      expect(checkout.total).to be( expected_total)
+      expect(checkout.total).to be(expected_total)
     end
   end
 end
